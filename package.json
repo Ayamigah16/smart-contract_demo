@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "solc": "^0.8.28"
+    "solc": "^0.4.17"
   }
 }
